@@ -3,11 +3,6 @@ def addition(num1, num2)
   num2 = Integer
   puts num1 + num2
 end
-  
-  
-
-
-end
 
 def subtraction(num1, num2)
 
