@@ -1,7 +1,7 @@
 def addition(num1, num2)
-  num1 = Integer
-  num2 = Integer
-  puts Math.sum(num1, num2)
+  num1 = 5
+  num2 = 4
+  puts 5 + 4 = 9
 end
 
 def subtraction(num1, num2)
