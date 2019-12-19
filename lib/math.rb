@@ -1,7 +1,7 @@
 def addition(num1, num2)
   num1 = Integer
   num2 = Integer
-  puts num1 + num2
+  puts Math.sum(num1, num2)
 end
 
 def subtraction(num1, num2)
